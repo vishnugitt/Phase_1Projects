@@ -1,4 +1,4 @@
-package type;
+package package1;
 
 public class TypeCasting 
 {
